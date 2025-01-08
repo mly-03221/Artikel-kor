@@ -1,8 +1,18 @@
-<h1>Belajar dasar coding HTML untuk pemula</h1>
+<h1>Resep ayam bakar</h1>
+<p>Mulya Rahmadani&Nabila/2024</p>
 
-<h2> Apa itu HTML?</h2>
-<p>HTML (HyperText Markup Language) adalah bahasa markup yang digunakan untuk membuat struktur halaman web. HTML menggunakan tag untuk mendefinisikan elemen-elemen di dalam halaman.</p>
+<h2>Bahan-bahan yang perlu disiapkan</h2>
+<p>Bahan yangperlu diapkan adalah:
+<Li>1 ekom ayam, potong sesuai selera.</Li></p>
 
+<p>*Bumbu halus
+<Li>6 siung bawang merah</Li>
+<Li>4 siung bawang putih</Li>
+<Li>3 buah cabe merah keriting (sesuai selera)</Li>
+<Li>2 ruas kunyit</Li>
+<Li>1 ruas jahe</L>
+<Li>1 sdt ketumbar bubuk</Li>
+<Li>1/2 sdt merica bubuk</Li></p>
 <h2>Stuktur dasar HTML</h2>
 <p> Berikut sruktur dasar dari documen HTML:</p>
 <img src="ht.jpg">
