@@ -1,4 +1,4 @@
-<h1>Resep ayam bakar</h1>
+<h1>Cara mebuat ayam bakar</h1>
 <p>Mulya Rahmadani&Nabila/2024</p>
 
 <h2>Bahan-bahan yang perlu disiapkan</h2>
@@ -33,7 +33,6 @@
     <img src="aym2.jpg">
   </oL>
 </p>
- 
 
-
+	
 
