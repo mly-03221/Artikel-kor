@@ -13,11 +13,22 @@
 <Li>1 ruas jahe</L>
 <Li>1 sdt ketumbar bubuk</Li>
 <Li>1/2 sdt merica bubuk</Li></p>
-<h2>Stuktur dasar HTML</h2>
-<p> Berikut sruktur dasar dari documen HTML:</p>
-<img src="ht.jpg">
-<h2>Penjelasan struktur</h2>
+<p>*Bahan tambahan
+<Li>4 lembar daun salam</Li>
+<Li>2 batang serai, gebrek</Li>
+<Li>2 sdm gula merah</Li>
+<Li>Garam secukupnya</Li>
+<Li>Minyak untuk memanggang</Li></p>
+
+<h2>Cara membuat</h2>
 <p>
+  <oL>
+    <Li>Haluskan semua bumbu menggunakan blender atau ulekan hingga benar-benar halus.</Li>
+    <Li>Lumuri ayam dengan bumbu halus hingga rata. Diamkan selama minimal 30 menit agar bumbu meresap.</Li>
+    <Li>Panaskan teflon atau panggangan. Olesi dengan sedikit minyak. Panggang ayam hingga matang dan berwarna kecoklatan. Bolak-balik agar matang merata.</Li>
+    <img src="aym1"
+  </oL>
+</p>
   <oL>
     <Li>'!DOCTYPE html:' Menyatakan bahwa dokumen ini adalah dokumen HTML5.</Li>
     <Li>'html lang="id":' Elemen root dari dokumen HTML. Atribut lang menunjukkan bahasa yang digunakan.</Li>
